@@ -1,5 +1,16 @@
 ### Hi, I'm Rabiya Basri 👋
 
+### About me
+- 🌱 A passionate learner in field of web technology
+- 👩‍💻 Currently working on Front-End Technologies(**ReactJs,Redux**) 
+- ⚡ Learning Full-Stack Web Development
+
+### Tech Stack
+- JavaScript | ES5 | ES6
+- HTML | CSS | ReactJS | Redux
+- GIT | Markdown
+
+
 <!--
 **rabiya-basri/rabiya-basri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
